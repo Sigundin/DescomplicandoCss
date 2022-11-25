@@ -1,0 +1,9 @@
+
+.menu-lista{
+    display: flex;
+    list-style: none;
+}
+
+.menu-lista :last-child{
+    margin-right: 0;
+}
