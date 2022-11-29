@@ -1,0 +1,6 @@
+.receitas {
+background: #C0C0C0;
+display: flex;
+flex-wrap: wrap;
+padding: 5rem 0 0 5rem;
+}
