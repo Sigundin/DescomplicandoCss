@@ -1,5 +1,17 @@
 .subtitulo__paragrafo{
 color: #595959;
-font-size: 1.75rem;
 font-weight: 100;
+}
+
+@media screen and (min-width: 0) {
+    .subtitulo__paragrafo{
+        font-size: 1.2rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .subtitulo__paragrafo{
+        font-size: 1.75rem;
+    }
+    
 }
